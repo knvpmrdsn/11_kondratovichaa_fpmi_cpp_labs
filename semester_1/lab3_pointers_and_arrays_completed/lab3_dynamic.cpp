@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 #include <random>
 
 const int size = 3e5;
