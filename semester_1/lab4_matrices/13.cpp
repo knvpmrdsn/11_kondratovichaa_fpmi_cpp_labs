@@ -125,7 +125,11 @@ int main()
                 break;
             }
         }
-        if (!found) cout << "First column without negative numbers is " << j + 1 << '\n';
+        if (!found) 
+        {
+            cout << "First column without negative numbers is " << j + 1 << '\n';
+        }
     }
     if (found) cout << "All columns have negative numbers\n";
+
 }
