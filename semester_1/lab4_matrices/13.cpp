@@ -131,5 +131,6 @@ int main()
         }
     }
     if (found) cout << "All columns have negative numbers\n";
-
+return 0;
 }
+
