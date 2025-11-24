@@ -1,0 +1,4 @@
+apple and banana are fruits.
+Banana is my favorite fruit.
+Today the weather is nice.
+I like apple pie.
