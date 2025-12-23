@@ -1,0 +1,10 @@
+1 0 Paris 08 15 03 30
+2 1 Berlin 09 00 04 20
+3 2 London 10 30 02 45
+4 3 Rome 11 15 03 10
+5 4 Madrid 12 00 05 00
+6 0 Paris 13 45 03 50
+7 1 Berlin 14 30 04 15
+8 2 London 15 10 02 55
+9 3 Rome 16 00 03 05
+10 4 Madrid 17 20 05 10
